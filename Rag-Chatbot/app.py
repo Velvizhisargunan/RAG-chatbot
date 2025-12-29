@@ -72,7 +72,7 @@ if uploaded_files:
     # LLM (Ollama)
     # -----------------------------------------------
     llm = OllamaLLM(
-        model="llama3.2:latest",
+        model="llama3.2:1b",
         temperature=0
     )
 
