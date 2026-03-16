@@ -76,6 +76,4 @@ All processing occurs locally. No data is transmitted to external services.
 
 MIT License
 
-## Author
 
-MadhavanAR - [GitHub](https://github.com/MadhavanAR)
